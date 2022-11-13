@@ -20,7 +20,7 @@ mid2sseq
 
 LMMS
 
-ndslazy
+dslazy
 
 Nitro Studio
 
