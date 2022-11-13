@@ -12,3 +12,16 @@ Tracks : 0/32
 Arenas : 0/6
 
 UI : 0%
+
+
+# Tools
+
+mid2sseq
+
+LMMS
+
+ndslazy
+
+Nitro Studio
+
+Anvil Studio 
