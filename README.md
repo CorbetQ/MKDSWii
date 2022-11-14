@@ -58,3 +58,5 @@ VGMTrans
 13) Recompile the modified rom
 
 14) Have fun
+
+  *You need to dump the rom on your DS cardridge*
