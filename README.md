@@ -33,7 +33,7 @@ VGMTrans
 
 1) insert the rom into VGMTrans
 
-2) Export into midi andsf2 the music you want to modify
+2) Export into midi and sf2 the music you want to modify
 
 3) With the midi and sf2. Edit your music in LMMS or other DAW
 
