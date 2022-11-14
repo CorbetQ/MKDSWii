@@ -29,7 +29,7 @@ Anvil Studio
 VGMTrans
 
 
-# How to add music to MKDS ?
+# How to add music to MKDS ? (Work with others DS Games)
 
 1) insert the rom into VGMTrans
 
