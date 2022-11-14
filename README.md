@@ -47,7 +47,7 @@ VGMTrans
 
 8) Convert your midi to sseq with mid2sseq
 
-9) With dslazy. Decompile MKDS (or other game rom) or just add the rom to the project if you want to colaborate
+9) With dslazy. Decompile MKDS (or other game rom) or just add the sseq to the project if you want to colaborate
 
 10) Open the sdat file with Nitro Studio
 
